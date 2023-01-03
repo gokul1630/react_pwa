@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.navbar a {
+  color: #fff;
+}
+
+.navbar a:hover {
+  color: #ddd;
+}
